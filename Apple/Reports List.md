@@ -79,3 +79,12 @@ DSA Audit Implementation report
 Pursuant to Article 37(6) of the DSA, this report sets out the measures that Apple has taken to implement the operational recommendations (referred to as “specific measures”) set out in the August 2024 DSA audit report.
 
 [See the DSA audit implementation report | App Store | August 2024](https://www.apple.com/legal/dsa/20242708_app-store_audit-implementation-report_non-confidential.pdf)
+
+DSA and Researchers
+-------------------
+
+Article 40 of the DSA establishes a regime for researchers vetted by Digital Services Coordinators to request data held by Very Large Online Platforms, including the App Store, for the sole purpose of conducting research relating to systemic risks in the European Union and related risk mitigation measures. The regime includes provisions for the protection of confidentiality, privacy and security of such data.
+
+Article 40(12) of the DSA allows researchers that meet specific criteria to access data that is publicly accessible on a Very Large Online Platform’s online interface.
+
+[Learn more about access for researchers](https://www.apple.com/legal/dsa/dsa-researchers/)
