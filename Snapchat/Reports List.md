@@ -344,20 +344,23 @@ As we had no enforcement actions required under the Regulation during the report
 
 **DSA Risk Assessment**
 
-This report has been prepared to comply with Snap’s obligations under Articles 34 and 35 of Regulation (EU) 2022/2065 and provides the results of our assessment of system risks stemming from the design, function and use of Snapchat’s online platforms, together with the methodology used to assess those risks and the mitigation measures put in place to address those risks.
+These reports have been prepared to comply with Snap’s obligations under Articles 34 and 35 of Regulation (EU) 2022/2065 and provide the results of our annual assessments of system risks stemming from the design, function and use of Snapchat’s online platforms, together with the methodology used to assess those risks and the mitigation measures put in place to address those risks.
 
-  
-[DSA Risk and Mitigation Assessment Report | Snapchat | August 2023 (PDF)](https://downloads.ctfassets.net/kw9k15zxztrs/55C3sV2gzevjT1ucl2xEvz/7c12ac42b6c8c19144c21b16524dbf0e/DSA_Risk_and_Mitigation_Assessment_Report_-_Snapchat_-_August_2023.pdf)
+*   [DSA Risk and Mitigation Assessment Report | Snapchat | August 2023 (PDF](https://downloads.ctfassets.net/kw9k15zxztrs/55C3sV2gzevjT1ucl2xEvz/7c12ac42b6c8c19144c21b16524dbf0e/DSA_Risk_and_Mitigation_Assessment_Report_-_Snapchat_-_August_2023.pdf)
+    
+*   [DSA Risk and Mitigation Assessment Report | Snapchat | August 2024 (PDF)](https://images.ctfassets.net/kw9k15zxztrs/3XDdaeJtkDtu4psL9nFFQ6/6f84a8f12c471ff7c00f7d53360d55f0/FINAL__v1_-Redacted-_2024_DSA_Risk_Assessment.pdf)
+    
+*   [DSA Risk and Mitigation Assessment Report | Snapchat | August 2025 (PDF)](https://images.ctfassets.net/kw9k15zxztrs/1wx6fdS4smqUq0Zy77HAVO/6116435e15a3504d84f2a7b41d7d442b/FINAL__v1_-Redacted-_2025_DSA_Risk_Assessment.pdf)
+    
 
-  
+‎**DSA Audit and Audit Implementation**
 
-**DSA Audit and Audit Implementation**
+These reports have been prepared to comply with Snap’s obligations under Article 37 of  Regulation (EU) 2022/2065 and provide: (i) the results of the independent audit of Snap’s compliance with the obligations set out in Chapter III of Regulation (EU) 2022/2065 and (ii) the measures taken to implement the operational recommendations from that independent audit.
 
-These reports have been prepared to comply with Snap’s obligations under Article 37 of  Regulation (EU) 2022/2065 and provide: (i) the results of the independent audit of Snap’s compliance with the obligations set out in Chapter III of Regulation (EU) 2022/2065 and (ii) the measures taken to implement the operational recommendations from that independent audit.  
-
-[DSA Independent Audit Report | Snapchat | August 2024 (PDF)](https://assets.ctfassets.net/kw9k15zxztrs/5CrFmNWQztRkDcvhZ8TwyC/6014cd3df6544a2a68a56dfad1712b56/DSA_Independent_Audit_Report_-_Snapchat_-_August_2024.pdf)
-
-[DSA Audit Implementation Report | Snapchat | September 2024 (PDF)](https://assets.ctfassets.net/kw9k15zxztrs/4Nm0Cxe56BCTivv67gn4HQ/2f73f67fb6a44416daea8baf166cdf48/DSA_Audit_Implementation_Report_-_Snapchat_-_August_2024.pdf)
+*   [DSA Independent Audit Report | Snapchat | August 2024 (PDF)](https://assets.ctfassets.net/kw9k15zxztrs/5CrFmNWQztRkDcvhZ8TwyC/6014cd3df6544a2a68a56dfad1712b56/DSA_Independent_Audit_Report_-_Snapchat_-_August_2024.pdf) and [DSA Audit Implementation Report | Snapchat | September 2024 (PDF)](https://assets.ctfassets.net/kw9k15zxztrs/4Nm0Cxe56BCTivv67gn4HQ/2f73f67fb6a44416daea8baf166cdf48/DSA_Audit_Implementation_Report_-_Snapchat_-_August_2024.pdf)
+    
+*   [DSA Independent Audit Report | Snapchat | August 2025 (PDF)](https://images.ctfassets.net/kw9k15zxztrs/3buvR9gb54KpXWXHyL1APY/da5755b2255d7908893d60d639c6e812/DSA_and_Hate_Speech_Code_of_Conduct_Reporting_Package_-_Snapchat_2025_Redacted.pdf) and [DSA Audit Implementation Report | Snapchat | August 2025 (PDF)](https://images.ctfassets.net/kw9k15zxztrs/5ej7c2nFHtPSORvOeYhEYm/defe37bdc48530a300e22a682ac66334/Confidential_-_2025_Snap_DSA_and_Hate_Speech_Code_of_Conduct_Audit_Implementation_Report_Draft__1___2_.pdf)
+    
 
   
   
