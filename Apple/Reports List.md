@@ -42,8 +42,6 @@ Pursuant to the transparency reporting obligations in the DSA and Apple’s comm
 
 [See the DSA Transparency Report | App Store | February 2025](https://www.apple.com/legal/dsa/transparency/eu/app-store/2502/)
 
-[See the DSA Transparency Report | App Store | August 2025](https://www.apple.com/legal/dsa/transparency/eu/app-store/2508/)
-
 [See the DSA Transparency Report | Apple Books (ebooks) | February 2025](https://www.apple.com/legal/dsa/transparency/eu/books/2502/)
 
 [See the DSA Transparency Report | Apple Podcasts Subscriptions | February 2025](https://www.apple.com/legal/dsa/transparency/eu/podcasts/2502/)
@@ -66,6 +64,8 @@ Pursuant to Articles 34 and 35 of the DSA, this report sets out the results of A
 
 [See the DSA risk assessment | App Store | August 2024](https://www.apple.com/legal/dsa/20241212_app-store_risk-assessment-report_non-confidential.pdf)
 
+[See the DSA risk assessment | App Store | August 2025](https://www.apple.com/legal/dsa/20251119_app-store_risk-assessment-report_non-confidential.pdf)
+
 DSA Audit Report
 ----------------
 
@@ -73,12 +73,16 @@ Pursuant to Article 37 of the DSA, this report sets out the results of the annua
 
 [See the DSA audit report | App Store | August 2024](https://www.apple.com/legal/dsa/20242708_app-store_reasonable-assurance-report_non-confidential.pdf)
 
+[See the DSA audit report | App Store | August 2025](https://www.apple.com/legal/dsa/20251119_app-store_reasonable-assurance-report_non-confidential.pdf)
+
 DSA Audit Implementation report
 -------------------------------
 
 Pursuant to Article 37(6) of the DSA, this report sets out the measures that Apple has taken to implement the operational recommendations (referred to as “specific measures”) set out in the August 2024 DSA audit report.
 
 [See the DSA audit implementation report | App Store | August 2024](https://www.apple.com/legal/dsa/20242708_app-store_audit-implementation-report_non-confidential.pdf)
+
+[See the DSA audit implementation report | App Store | August 2025](https://www.apple.com/legal/dsa/20251119_app-store_audit-implementation-report_non-confidential.pdf)
 
 DSA and Researchers
 -------------------
