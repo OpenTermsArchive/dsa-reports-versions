@@ -15,3 +15,5 @@ Download DSA Systemic Risk Assessment Report
 [Download 2023 Report](https://transparency.x.com/content/dam/transparency-twitter/dsa/dsa-sra/dsa-sra-2023/TIUC-DSA-SRA-Report-2023.pdf)
 
 [Download 2024 Report](https://transparency.x.com/content/dam/transparency-twitter/dsa/dsa-sra/dsa-sra-2024/TIUC-DSA-SRA-Report-2024.pdf)
+
+[Download 2025 Report](https://transparency.x.com/content/dam/transparency-twitter/dsa/2025-x-dsa-sra-summary-report.pdf)
