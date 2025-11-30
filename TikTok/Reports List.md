@@ -23,6 +23,12 @@ We’re proud of our strong track record of being transparent about the steps we
 
 Building on our proactive approach to transparency and as part of our obligations under the DSA, we will publish a transparency report every six months to provide granular data for EU countries about our content moderation activities. These reports, along with our risk assessment results report, audit and audit implementation reports under the Digital Services Act, are available below.
 
+##### [TikTok DSA Risk Assessment Report (2025)](https://sf16-va.tiktokcdn.com/obj/eden-va2/zayvwlY_fjulyhwzuhy[/ljhwZthlaukjlkulzlp/DSA/DSARiskAssessmentReport-TikTokTechnologyLimited-2025.pdf)
+
+##### [TikTok DSA Audit Implementation Report (2025)](https://sf16-va.tiktokcdn.com/obj/eden-va2/zayvwlY_fjulyhwzuhy[/ljhwZthlaukjlkulzlp/DSA/DSAAuditImplementationReport-TikTokTechnologyLimited-2025.pdf)
+
+##### [TikTok DSA Audit Assurance Report (2025)](https://sf16-va.tiktokcdn.com/obj/eden-va2/zayvwlY_fjulyhwzuhy[/ljhwZthlaukjlkulzlp/DSA/DSAAssuranceReport-TikTokTechnologyLimited-2025.pdf)
+
 ##### [TikTok DSA Transparency Report (January - June 2025)](https://sf16-va.tiktokcdn.com/obj/eden-va2/zayvwlY_fjulyhwzuhy[/ljhwZthlaukjlkulzlp/DSA_H1_2025/TikTok-DSATransparencyReport-January-June-2025.pdf)
 
 ##### [TikTok DSA Risk Assessment Report (2024)](https://sf16-va.tiktokcdn.com/obj/eden-va2/zayvwlY_fjulyhwzuhy[/ljhwZthlaukjlkulzlp/DSA/TikTok_DSA_Risk_Assessment_Report_2024.pdf)
@@ -41,4 +47,4 @@ Building on our proactive approach to transparency and as part of our obligation
 
 ##### [TikTok DSA Risk Assessment Report (2023)](https://sf16-va.tiktokcdn.com/obj/eden-va2/zayvwlY_fjulyhwzuhy[/ljhwZthlaukjlkulzlp/DSA_H2_2024/TikTok-DSA-Risk-Assessment-Report-2023.pdf)
 
-Additionally, all files, including historical versions of the reports, can be downloaded in a single zip file, [available here.](https://sf16-va.tiktokcdn.com/obj/eden-va2/zayvwlY_fjulyhwzuhy[/ljhwZthlaukjlkulzlp/DSA/TikTok-DSATransparencyReports-Aug2025.zip)
+Additionally, all files, including historical versions of the reports, can be downloaded in a single zip file, [available here.](https://sf16-va.tiktokcdn.com/obj/eden-va2/zayvwlY_fjulyhwzuhy[/ljhwZthlaukjlkulzlp/DSA/TikTok-DSATransparencyReports-Nov2025.zip)
