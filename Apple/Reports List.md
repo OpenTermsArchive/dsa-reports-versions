@@ -42,6 +42,8 @@ Pursuant to the transparency reporting obligations in the DSA and Apple’s comm
 
 [See the DSA Transparency Report | App Store | February 2025](https://www.apple.com/legal/dsa/transparency/eu/app-store/2502/)
 
+[See the DSA Transparency Report | App Store | August 2025](https://www.apple.com/legal/dsa/transparency/eu/app-store/2508/)
+
 [See the DSA Transparency Report | Apple Books (ebooks) | February 2025](https://www.apple.com/legal/dsa/transparency/eu/books/2502/)
 
 [See the DSA Transparency Report | Apple Podcasts Subscriptions | February 2025](https://www.apple.com/legal/dsa/transparency/eu/podcasts/2502/)
