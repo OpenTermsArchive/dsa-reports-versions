@@ -1,0 +1,48 @@
+Background on the DSA's requirement for annual audits
+-----------------------------------------------------
+
+Under the [specific obligations of the European Union's Digital Services Act ("DSA")](https://diff.wikimedia.org/2023/05/04/wikipedia-is-now-a-very-large-online-platform-vlop-under-new-european-union-rules-heres-what-that-means-for-wikimedians-and-readers/ "diffblog:2023/05/04/wikipedia-is-now-a-very-large-online-platform-vlop-under-new-european-union-rules-heres-what-that-means-for-wikimedians-and-readers/") for [Very Large Online Platforms](https://en.wikipedia.org/wiki/en:Digital_Services_Act#Large_online_platforms "w:en:Digital Services Act")" (VLOPs)  (which Wikipedia was designated in April of 2023), the operator of the platform is audited annually by an independent auditor regarding compliance on matters such as [complaint handling, transparency reporting, and risk assessment and mitigation](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022R2065#art_37). The auditor is then required to write an Audit Report that must be submitted to the EU Commission on the anniversary of the official compliance period's start date.
+
+For the Wikimedia Foundation (WMF), our initial audit period began 25 August 2023. The inaugural DSA Audit Report was completed on 23 August 2024 and submitted to the EU Commission on 26 August 2024. The Wikimedia Foundation's DSA Audit Report for that first period was completed by [Holistic AI](https://www.holisticai.com/digital-services-act-audit), who are also assessing WMF's compliance with the [Global Network Initiative (GNI) Principles](https://globalnetworkinitiative.org/gni-principles/).
+
+VLOP operators must respond to the Audit Report, within one month, with an Audit Implementation Report that details our efforts to implement recommendations, reasons for not implementing, and/or alternative measures we plan to take. Pursuant to DSA Article 42(4), both the Audit and Audit Implementation reports must be made publicly available within a 90 day period.
+
+In addition, the DSA requires VLOP operators to annually assess "systemic risks" in the EU linked to their platform, and ensure that suitable mitigations exist for those risks.  Annual Systemic Risk Assessment and Mitigation (**SRAM**) documentation must also be published at the same time as the DSA Audit Report and DSA Audit Implementation Report.
+
+The table below provides links to WMF's openly-published Audit Report, Audit Implementation Report, and SRAM documentation, as required by DSA Article 42(4).  Redactions are governed by DSA Article 42(5).
+
+Digital Services Act annual audit and risk assessment-related documentation
+---------------------------------------------------------------------------
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Publication year** | **DSA Audit Report** | **DSA Audit Implementation Report (AIR)** | **DSA Systemic Risk Assessment and Mitigation (SRAM)** |
+| 2024 | *   [Main report, 2024](https://foundation.wikimedia.org/wiki/File:Wikipedia_DSA_Audit_Report_2023-24_Public.pdf "File:Wikipedia DSA Audit Report 2023-24 Public.pdf") (.pdf)<br>*   [Annexes, 2024](https://foundation.wikimedia.org/wiki/File:Wikipedia_DSA_Audit_Report_Annexes_2023-24_Public.pdf "File:Wikipedia DSA Audit Report Annexes 2023-24 Public.pdf") (.pdf)<br>*   Audit completed by [Holistic AI](https://www.holisticai.com/digital-services-act-audit) | *   [DSA Audit Implementation Report, 2024](https://foundation.wikimedia.org/wiki/File:Wikipedia_DSA_Audit_Implementation_Report_2023-24_Public.pdf "File:Wikipedia DSA Audit Implementation Report 2023-24 Public.pdf") (.pdf) | *   [SRAM Cover letter, 2023](https://foundation.wikimedia.org/wiki/File:Wikipedia_DSA_SRA_submission_cover_note_31Aug2023.pdf "File:Wikipedia DSA SRA submission cover note 31Aug2023.pdf") (.pdf)<br>*   [SRAM 2023-2024](https://foundation.wikimedia.org/wiki/File:WMF_23-24_approved_DSA_SRAM_\(Risk_Register\).zip "File:WMF 23-24 approved DSA SRAM (Risk Register).zip") (HTML file bundle in .zip archive) |
+| 2025 | *   [Main report, 2025](https://foundation.wikimedia.org/wiki/File:Wikipedia_DSA_Audit_Report_2024-25_Public.pdf "File:Wikipedia DSA Audit Report 2024-25 Public.pdf") (.pdf)<br>*   [Annexes, 2025](https://foundation.wikimedia.org/wiki/File:Wikipedia_DSA_Audit_Report_Annexes_2024-25_Public.pdf "File:Wikipedia DSA Audit Report Annexes 2024-25 Public.pdf") (.pdf)<br>*   Audit completed by [Holistic AI](https://www.holisticai.com/digital-services-act-audit) | *   [DSA Audit Implementation Report, 2025](https://foundation.wikimedia.org/wiki/File:Wikpedia_2024-25_DSA_Audit_Implementation_Report_-_Public.pdf "File:Wikpedia 2024-25 DSA Audit Implementation Report - Public.pdf") (.pdf) | *   [Systemic Risk Assessment 2024–2025](https://foundation.wikimedia.org/wiki/File:WMF_24-25_Wikipedia_EU_DSA_Systemic_Risk_Assessment.zip "File:WMF 24-25 Wikipedia EU DSA Systemic Risk Assessment.zip") (HTML file bundle in .zip archive) Note: due to a change in official guidance, this year's Systemic Risk Assessment is being released ahead of time, before the corresponding Mitigation assessment is complete. These two will be consolidated later. |
+| 2026 |     |     | *   [SRAM Cover letter, 2025-26](https://foundation.wikimedia.org/wiki/File:Wikipedia_DSA_SRAM_submission_cover_note_09Sept2025.pdf "File:Wikipedia DSA SRAM submission cover note 09Sept2025.pdf") (.pdf)<br>*   [Systemic Risk Assessment and Mitigations 2025-26](https://foundation.wikimedia.org/wiki/File:WMF_25-26_Wikipedia_EU_DSA_Systemic_Risk_Assessment_and_Mitigations.zip "File:WMF 25-26 Wikipedia EU DSA Systemic Risk Assessment and Mitigations.zip") (HTML file bundle in .zip archive) |
+
+  
+
+2023-2024 Summaries
+-------------------
+
+Because readers will be unfamiliar with documentation of this type, we are including, below, a brief summary of the main findings of each document for the first year.
+
+### Summary of the Wikimedia Foundation's 2023-2024 Audit and Audit Implementation Reports
+
+Out of a rating system of _Positive,_ _Positive with comments,_ or _Negative,_ the overall rating from the 2024 Audit Report for the Wikimedia Foundation conducted by Holistic AI was '_Positive with comments_.'
+
+The high level-areas of focus described in the Audit Report, along with a summary of the Foundation's response in our Audit Implementation Report, are summarized below:
+
+*   **Systemic Risks and Mitigations (SRAM):** This documentation (see below) is itself an annual requirement of the DSA. (See Articles 34 & 35.) The auditors recommend that we add more information and explanation to the SRAM, which we are working on implementing for the 2024-2025 version.
+*   **Transparency Reporting:** Although the Wikimedia Foundation has been publishing Transparency Reports since 2014 as a best practice, the auditors recommended that we add more specific detail to some of the information we include, e.g.  in our takedown and personnel metrics. We are working to implement them for future Transparency Reports.
+*   **Administrative updates to our ToU:** The auditors recommended we create EU-specific [Terms of Use](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use "Special:MyLanguage/Policy:Terms of Use") (ToU) and make some of the Foundation's contact information more explicit. The Wikimedia Foundation will review the ToU to make it less US-centric and to ensure contact information is easily accessible.
+*   **Operational adjustments to complaint handling:** We are currently developing an Incident Reporting System in light of the DSA, as a new mechanism for users to flag complaints. The auditors recommended we study whether and how this Incident Reporting System complements our pre-DSA reporting systems (via email addresses such as legal![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org). The auditors also recommended we create more clarity about where reports should be sent for platform users across the different language versions of Wikipedia, and that we specify the differences between using community staffed contact addresses (such as info![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org) or Wikimedia Foundation contact addresses (such as legal![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org or ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org).
+
+### Summary of the Wikimedia Foundation's 2023-2024 SRAM
+
+An illustrated summary of the 2023-2024 SRAM methodology and key findings is included in the [cover letter](https://foundation.wikimedia.org/wiki/File:Wikipedia_DSA_SRA_submission_cover_note_31Aug2023.pdf "File:Wikipedia DSA SRA submission cover note 31Aug2023.pdf") that we are providing alongside the SRAM itself.
+
+![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
+
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Legal:Wikimedia\_Foundation\_EU\_Compliance/DSA\_Publication\_Archive&oldid=543071](https://foundation.wikimedia.org/w/index.php?title=Legal:Wikimedia_Foundation_EU_Compliance/DSA_Publication_Archive&oldid=543071)"
