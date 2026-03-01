@@ -23,6 +23,8 @@ We’re proud of our strong track record of being transparent about the steps we
 
 Building on our proactive approach to transparency and as part of our obligations under the DSA, we will publish a transparency report every six months to provide granular data for EU countries about our content moderation activities. These reports, along with our risk assessment results report, audit and audit implementation reports under the Digital Services Act, are available below.
 
+##### [TikTok DSA Transparency Report (July - December 2025)](https://sf16-va.tiktokcdn.com/obj/eden-va2/zayvwlY_fjulyhwzuhy[/ljhwZthlaukjlkulzlp/DSA_H2_2025/DSA_Transparency_Report_TikTok_July_December_2025.zip)
+
 ##### [TikTok DSA Risk Assessment Report (2025)](https://sf16-va.tiktokcdn.com/obj/eden-va2/zayvwlY_fjulyhwzuhy[/ljhwZthlaukjlkulzlp/DSA/DSARiskAssessmentReport-TikTokTechnologyLimited-2025.pdf)
 
 ##### [TikTok DSA Audit Implementation Report (2025)](https://sf16-va.tiktokcdn.com/obj/eden-va2/zayvwlY_fjulyhwzuhy[/ljhwZthlaukjlkulzlp/DSA/DSAAuditImplementationReport-TikTokTechnologyLimited-2025.pdf)
