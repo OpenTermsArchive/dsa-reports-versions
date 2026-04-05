@@ -45,4 +45,4 @@ An illustrated summary of the 2023–2024 SRAM methodology and key findings is i
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Legal:Wikimedia\_Foundation\_EU\_Compliance/DSA\_Publication\_Archive&oldid=563367](https://foundation.wikimedia.org/w/index.php?title=Legal:Wikimedia_Foundation_EU_Compliance/DSA_Publication_Archive&oldid=563367)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Legal:Wikimedia\_Foundation\_European\_Union\_Compliance/Digital\_Services\_Act\_Publication\_Archive&oldid=565291](https://foundation.wikimedia.org/w/index.php?title=Legal:Wikimedia_Foundation_European_Union_Compliance/Digital_Services_Act_Publication_Archive&oldid=565291)"
