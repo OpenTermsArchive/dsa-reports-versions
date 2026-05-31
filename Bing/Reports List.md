@@ -85,6 +85,7 @@ India Monthly Report under the Information Technology (Intermediary Guidelines a
 
 Microsoft publishes monthly transparency reports on complaints received from users in India and the actions taken thereon, as well the number of content actioned in pursuance to proactive monitoring across Microsoft’s services that are classified as “Significant Social Media Intermediaries” (“SSMIs”).
 
+*   [April 2026 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2365271&clcid=0x409&culture=en-us&country=us)
 *   [March 2026 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2361641&clcid=0x409&culture=en-us&country=us)
 *   [February 2026 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2358400&clcid=0x409&culture=en-us&country=us)
 *   [January 2026 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2353933&clcid=0x409&culture=en-us&country=us)
