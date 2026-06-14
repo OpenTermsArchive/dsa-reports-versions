@@ -89,26 +89,53 @@ Microsoft publishes monthly transparency reports on complaints received from use
 *   [March 2026 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2361641&clcid=0x409&culture=en-us&country=us)
 *   [February 2026 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2358400&clcid=0x409&culture=en-us&country=us)
 *   [January 2026 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2353933&clcid=0x409&culture=en-us&country=us)
-*   [December 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2348306&clcid=0x409&culture=en-us&country=us)
-*   [November 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2346121&clcid=0x409&culture=en-us&country=us)
-*   [October 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2343700&clcid=0x409&culture=en-us&country=us)
-*   [September 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2339064&clcid=0x409&culture=en-us&country=us)
-*   [August 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2336200&clcid=0x409&culture=en-us&country=us)
-*   [July 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2333175&clcid=0x409&culture=en-us&country=us)
-*   [June 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2330207&clcid=0x409&culture=en-us&country=us)
-*   [May 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326440&clcid=0x409&culture=en-us&country=us)
-*   [April 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2321487&clcid=0x409&culture=en-us&country=us)
-*   [March 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2316438&clcid=0x409&culture=en-us&country=us)
-*   [February 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326535&clcid=0x409&culture=en-us&country=us)
-*   [January 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326640&clcid=0x409&culture=en-us&country=us)
-*   [December 2024 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326641&clcid=0x409&culture=en-us&country=us)
-*   [November 2024 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326642&clcid=0x409&culture=en-us&country=us)
-*   [October 2024 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326442&clcid=0x409&culture=en-us&country=us)
-*   [September 2024 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326643&clcid=0x409&culture=en-us&country=us)
-*   [August 2024 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326644&clcid=0x409&culture=en-us&country=us)
-*   [July 2024 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326536&clcid=0x409&culture=en-us&country=us)
-*   [June 2024 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326443&clcid=0x409&culture=en-us&country=us)
-*   [May 2024 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326444&clcid=0x409&culture=en-us&country=us)
-*   [April 2024 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326445&clcid=0x409&culture=en-us&country=us)
-*   [March 2024 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2265215&clcid=0x409&culture=en-us&country=us)
-*   [February 2024 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2264764&clcid=0x409&culture=en-us&country=us)
+
+*   ### 2025 - India Intermediary Guidelines Reports
+    
+    [December 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2348306)
+    
+    [November 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2346121)
+    
+    [October 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2343700)
+    
+    [September 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2339064)
+    
+    [August 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2336200)
+    
+    [July 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2333175)
+    
+    [June 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2330207)
+    
+    [May 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326440)
+    
+    [April 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2321487)
+    
+    [March 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2316438)
+    
+    [February 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326535)
+    
+    [January 2025 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326640)
+    
+*   ### 2024 - India Intermediary Guidelines Reports
+    
+    [December 2024 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326641)
+    
+    [November 2024 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326642)
+    
+    [October 2024 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326442)
+    
+    [September 2024 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326643)
+    
+    [August 2024 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326644)
+    
+    [July 2024 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326536)
+    
+    [June 2024 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326443)
+    
+    [May 2024 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326444)
+    
+    [April 2024 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2326445)
+    
+    [March 2024 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2265215)
+    
+    [February 2024 - India Intermediary Guidelines Report](https://go.microsoft.com/fwlink/?linkid=2264764)
