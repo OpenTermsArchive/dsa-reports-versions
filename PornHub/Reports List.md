@@ -1,3 +1,7 @@
+English English Bulgarian Croatian Czech Danish Dutch Estonian Finnish French German Greek Hungarian Italian Latvian Lithuanian Polish Portuguese Romanian Slovak Slovenian Spanish Swedish Maltese Irish
+
+English versions supersede any translations in the event of any ambiguity.
+
 **EU Digital Services Act**
 ---------------------------
 
@@ -5,23 +9,23 @@ As of January 1, 2026, Pornhub has 30.6 million average monthly recipients of th
 
 ### **Reporting Abusive or Illegal Content under the DSA (Art.16)**
 
-To report Abusive or illegal content under the EU Digital Services Act (DSA), please use our dedicated [Content Removal Form](https://www.pornhub.com/info/content_removal).
+To report Abusive or illegal content under the EU Digital Services Act (DSA), please use our dedicated [Content Removal Form](https://www.pornhub.com/content-removal).
 
 ### **Other DSA related inquiries**
 
 For any inquiries, requests, or complaints related to the Digital Services Act (excluding content removal requests), please contact us via the following options:
 
-*   **Email**: [dsa@pornhub.com](mailto:dsa@pornhub.com) (This email address must not be used to report illegal content under the DSA. For DSA content reporting, please use our [Content Removal Form](https://www.pornhub.com/info/content_removal)).
-*   **DSA Compliance Officer:** [dsacomplianceofficer@pornhub.com](mailto:dsacomplianceofficer@pornhub.com) (This email address must not be used to report illegal content under the DSA. For DSA content reporting, please use our [Content Removal Form](https://www.pornhub.com/info/content_removal)).
-*   [**Webform**](https://www.pornhub.com/info/support) (This webform must not be used to report illegal content under the DSA. For DSA content reporting, please use our [Content Removal Form](https://www.pornhub.com/info/content_removal)).
-*   **Mailing Address:** Aylo Freesites Ltd, Block 1, 195-197 Old Nicosia-Limassol Road, Dali Industrial Zone, 2540, Nicosia, Cyprus (This mailing address must not be used to report illegal content under the DSA. For DSA content reporting, please use our [Content Removal Form](https://www.pornhub.com/info/content_removal)).
+*   **Email**: [dsa@pornhub.com](mailto:dsa@pornhub.com) (This email address must not be used to report illegal content under the DSA. For DSA content reporting, please use our [Content Removal Form](https://www.pornhub.com/content-removal)).
+*   **DSA Compliance Officer:** [dsacomplianceofficer@pornhub.com](mailto:dsacomplianceofficer@pornhub.com) (This email address must not be used to report illegal content under the DSA. For DSA content reporting, please use our [Content Removal Form](https://www.pornhub.com/content-removal)).
+*   [**Webform**](https://www.pornhub.com/support) (This webform must not be used to report illegal content under the DSA. For DSA content reporting, please use our [Content Removal Form](https://www.pornhub.com/content-removal)).
+*   **Mailing Address:** Aylo Freesites Ltd, Block 1, 195-197 Old Nicosia-Limassol Road, Dali Industrial Zone, 2540, Nicosia, Cyprus (This mailing address must not be used to report illegal content under the DSA. For DSA content reporting, please use our [Content Removal Form](https://www.pornhub.com/content-removal)).
 
 ### **Other Contact Channels**
 
 If your request is not related to the Digital Services Act, please do not use the above DSA-specific contact details.
 
-*   For general inquiries, use [support@pornhub.com](mailto:support@pornhub.com), or visit our Support page at [https://www.pornhub.com/info/support](https://www.pornhub.com/info/support) for further information.(This email address must not be used to report illegal content under the DSA. For DSA content reporting, please use our [Content Removal Form](https://www.pornhub.com/info/content_removal)).
-*   For data and privacy inquiries, please visit our privacy policy at [https://www.pornhub.com/info/privacy](https://www.pornhub.com/info/privacy) for more information. (This page must not be used to report illegal content under the DSA. For DSA content reporting, please use our [Content Removal Form](https://www.pornhub.com/info/content_removal)).
+*   For general inquiries, use [support@pornhub.com](mailto:support@pornhub.com), or visit our Support page at [https://www.pornhub.com/support](https://www.pornhub.com/support) for further information.(This email address must not be used to report illegal content under the DSA. For DSA content reporting, please use our [Content Removal Form](https://www.pornhub.com/content-removal)).
+*   For data and privacy inquiries, please visit our privacy notice at [https://www.pornhub.com/information/privacy](https://www.pornhub.com/information/privacy) for more information. (This page must not be used to report illegal content under the DSA. For DSA content reporting, please use our [Content Removal Form](https://www.pornhub.com/content-removal)).
 
 ### **Researchers**
 
