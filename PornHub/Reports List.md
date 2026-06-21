@@ -1,7 +1,3 @@
-English English Bulgarian Croatian Czech Danish Dutch Estonian Finnish French German Greek Hungarian Italian Latvian Lithuanian Polish Portuguese Romanian Slovak Slovenian Spanish Swedish Maltese Irish
-
-English versions supersede any translations in the event of any ambiguity.
-
 **EU Digital Services Act**
 ---------------------------
 
