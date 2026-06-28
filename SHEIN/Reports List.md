@@ -4,7 +4,7 @@ SHEIN is committed to ensuring that we offer a safe online platform for our comm
 
 1.Information on Active Users in the EU
 
-Pursuant to Article 24.2 of the DSA, online platforms are required to publish information on the average monthly active recipients of their services in the EU every six months. SHEIN ‘Marketplace’ was launched in the EU in August 2023.We have calculated that from **01 August 2024 to 31 January 2026**, SHEIN had on average 155.7 million monthly active users in EU Member States.
+Pursuant to Article 24.2 of the DSA, online platforms are required to publish information on the average monthly active recipients of their services in the EU every six months. SHEIN ‘Marketplace’ was launched in the EU in August 2023.We have calculated that from **01 August 2025 to 31 January 2026**, SHEIN had on average 155.7 million monthly active users in EU Member States.
 
 We define a **‘monthly active user’** as the number of unique users who have engaged with the SHEIN platform within a specific period of months. This engagement could include activities such as browsing the SHEIN website or SHEIN App, making purchases, interacting with content, adding items to a cart, or any other interaction with the platform.
 
