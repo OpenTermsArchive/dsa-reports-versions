@@ -1,4 +1,4 @@
-Updated: 29 April 2026
+Updated: 3 July 2026
 
 Three decades ago, Amazon set out to be Earth’s most customer-centric company, where people can discover and purchase the widest possible selection of safe and authentic goods. As part of that mission, we obsess over earning and maintaining customer trust by ensuring that we provide a trustworthy shopping experience. We believe that customer trust is difficult to earn and easy to lose. We invest heavily in people and technology to prevent listings and content that are illegal or violate our terms and conditions from entering our store.
 
@@ -85,3 +85,8 @@ Pursuant to Article 11 of the DSA, the Amazon EU Store’s single point of conta
 Data access for vetted researchers
 
 Pursuit to Article 40 of the DSA, Amazon must provide data access to vetted researchers. This access is granted through formal requests submitted to the Digital Services Coordinator of establishment. To learn more, visit [here](https://trustworthyshopping.aboutamazon.com/digital-services-act-dsa-amazon-eu-store-data-access-for-vetted-researchers).
+
+**Ad library**
+
+Pursuant to Article 39 of the DSA, Amazon makes available an Ad Library of all ads and affiliate marketing content shown on the Amazon EU Store within the past year.  
+To learn more, visit [here](https://www.amazon.de/adlibrary).
