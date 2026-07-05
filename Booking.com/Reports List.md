@@ -20,7 +20,11 @@ Booking.com a créé [ce registre des publicités](https://booking.com/ad-reposi
 III. Rapport de transparence
 ----------------------------
 
-Booking.com a préparé un rapport de transparence conformément au règlement européen sur les services numériques (DSA). Ce rapport contient des informations sur les activités de modération de contenus menées lors de la période étudiée. Il expose le volume et la nature des contenus supprimés de notre plateforme, ainsi que des demandes de suppression envoyées par les utilisateurs et les autorités publiques. Ce rapport peut être téléchargé [ici](https://q-xx.bstatic.com/data/mobile/DSA_Transparency_Report_-_6th_report_-_27_February_2026.zip).
+Rapports de transparence
+
+Il s’agit des rapports de transparence de Booking.com, publiés conformément aux Articles 15, 24 et 42 du Règlement (UE) délégué de la Commission au titre de la législation sur les services numériques (DSA) complétant le Règlement (UE) 2022/2065 relatif aux obligations en matière de rapports de transparence.
+
+Consulter les rapports disponibles
 
 IV. Rapport sur l’évaluation des risques systémiques, rapport sur l’achèvement des mesures d’atténuation, rapport d’audit et plan d’action suite à l’audit
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
