@@ -1,7 +1,7 @@
 **EU Digital Services Act**
 ---------------------------
 
-As of January 1, 2026, Pornhub has 30.6 million average monthly recipients of the service in the European Union, calculated as an average over the period of the past six months. 
+As of July 1, 2026, Pornhub has 29.3 million average monthly recipients of the service in the European Union, calculated as an average over the period of the past six months. 
 
 ### **Reporting Abusive or Illegal Content under the DSA (Art.16)**
 
