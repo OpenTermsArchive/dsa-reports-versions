@@ -39,12 +39,15 @@ Allows you to search and observe ads available on Pornhub’s site in European c
 
 ### **Audit report**
 
-[Audit Report for Pornhub, April 2025](https://ei.phncdn.com/static/misc/legal/Audit_Report_for_Pornhub_April_2025_1753199885.pdf)
+[Audit Report for Pornhub, April 2025](https://ei.phncdn.com/static/misc/legal/Audit_Report_for_Pornhub_April_2025_1753199885.pdf)  
+[Audit Report for Pornhub, April 2026](https://ei.phncdn.com/static/misc/legal/Audit_Report_for_Pornhub_April_2026_1784563319.pdf)
 
 ### **Audit implementation report**
 
-[Audit Implementation Report for Pornhub, May 2025](https://ei.phncdn.com/static/misc/legal/Audit_Implementation_Report_for_Pornhub_May_2025_1752958259.pdf)
+[Audit Implementation Report for Pornhub, May 2025](https://ei.phncdn.com/static/misc/legal/Audit_Implementation_Report_for_Pornhub_May_2025_1752958259.pdf)  
+[Audit Implementation Report for Pornhub, May 2026](https://ei.phncdn.com/static/misc/legal/Audit_Implementation_Report_for_Pornhub_May_2026_1784563355.pdf)
 
 ### **Risk assessment**
 
-[Risk Assessment for Pornhub, April 2025](https://ei.phncdn.com/static/misc/legal/Risk_Assessment_for_Pornhub_April_2025_1752958273.pdf)
+[Risk Assessment for Pornhub, April 2025](https://ei.phncdn.com/static/misc/legal/Risk_Assessment_for_Pornhub_April_2025_1752958273.pdf)  
+[Risk Assessment for Pornhub, April 2026](https://ei.phncdn.com/static/misc/legal/Risk_Assessment_for_Pornhub_April_2026_1784563392.pdf)
