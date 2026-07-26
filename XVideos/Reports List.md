@@ -34,6 +34,8 @@ Transparency Reports
 **Risk Assessment Reports**
 ---------------------------
 
+[WGCZ Risk Assessment Report 2026](https://public-assets.xvideos-cdn.com/transparency/WGCZ_Risk_Assessment_Report_2026.pdf)
+
 [WGCZ Risk Assessment Report 2025](https://public-assets.xvideos-cdn.com/transparency/WGCZ_XVIDEOS_Risk-Assessment-Report_23_April_2025.pdf)
 
 [WGCZ Risk Assessment Report 2024](https://public-assets.xvideos-cdn.com/transparency/WGCZ_Risk_Assessment_Risk_Management_REPORT_1ST.pdf)
@@ -41,9 +43,13 @@ Transparency Reports
 **Independent Audit Reports**
 -----------------------------
 
+[WGCZ Independent Audit Report 2026](https://public-assets.xvideos-cdn.com/transparency/WGCZ_Independent_Audit_Report_2026.pdf)
+
 [WGCZ Independent Audit Report 2025](https://public-assets.xvideos-cdn.com/transparency/IA_REPORT_WGCZ_FINAL_21.04.2025_compiled.pdf)
 
 **Audit Implementation Reports**
 --------------------------------
+
+[WGCZ Audit Implementation Report 2026](https://public-assets.xvideos-cdn.com/transparency/WGCZ_Audit_Implementation_Report_2026.pdf)
 
 [WGCZ Audit Implementation Report 2025](https://public-assets.xvideos-cdn.com/transparency/WGCZ_Implementation_report.pdf)
