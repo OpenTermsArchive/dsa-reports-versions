@@ -42,7 +42,7 @@ For reference, our earlier reports remain available:
 
 •Transparency Report No.2 — 1 September 2024 to 31 December 2024 (view [here](https://files-c.ltwebstatic.com/ccc/2025/12/19/17661348802980366487.pdf)).
 
-•Transparency Report No.3 — 1 January 2025 to 30 June 2025(view [here](https://shein.ltwebstatic.com/tinypic/2026/02/28/1772261050841632956.xlsx)).
+•Transparency Report No.3 — 1 January 2025 to 30 June 2025(view [here](https://shein.ltwebstatic.com/tinypic/2026/07/20/17845276692060933545.xlsx)).
 
 5.Researchers’ access to data
 
