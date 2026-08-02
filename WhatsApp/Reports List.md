@@ -22,7 +22,7 @@ Regulatory and Other Transparency Reports
         *   [WhatsApp Business App](https://scontent.xx.fbcdn.net/v/t39.8562-6/634180083_1648138019674316_5646221024082620886_n.zip?_nc_cat=107&ccb=1-7&_nc_sid=b8d81d&_nc_zt=14&_nc_ht=scontent.xx&_nc_ss=73100)
 *   EU Platform to Business Transparency Report
     
-    *   [1 July 2024 - 30 June 2025](https://scontent.xx.fbcdn.net/v/t39.8562-6/528102979_1865172530881704_5871226414042028455_n.pdf?_nc_cat=103&ccb=1-7&_nc_sid=b8d81d&_nc_zt=14&_nc_ht=scontent.xx&_nc_ss=73100)
+    *   [1 July 2025 - 30 June 2026](https://scontent.xx.fbcdn.net/v/t39.8562-6/759282623_1073823668329212_4207205308390115401_n.pdf?_nc_cat=101&ccb=1-7&_nc_sid=b8d81d&_nc_zt=14&_nc_ht=scontent.xx&_nc_ss=73100)
     
 *   Reports under Texas Business and Commerce Code §120.053
     
