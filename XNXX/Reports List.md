@@ -9,6 +9,7 @@ However we very recently found a way to account for them. We now know that in th
 |     |     |
 | --- | --- |
 | Date | Average monthly XNXX recipients |
+| August 8, 2026 | 34 million |
 | February 17, 2026 | 42 million |
 | August 8, 2025 | 44 million |
 | February 17, 2025 | 46 million |
@@ -20,11 +21,13 @@ However we very recently found a way to account for them. We now know that in th
 Transparency Reports
 --------------------
 
-[Transparency report - June / December 2024](https://public-assets.xnxx-cdn.com/transparency/XNXX_Transparency_Report_-_July_to_December_2024.pdf)
+[Transparency report - January / June 2026](https://public-assets.xnxx-cdn.com/transparency/XNXX+-+Transparency+report+-+January-June+2026.zip)
+
+[Transparency report - July / December 2025](https://public-assets.xnxx-cdn.com/transparency/XNXX+-+Transparency+report+-+July-December+2025.zip)
 
 [Transparency report - January / June 2025](https://public-assets.xnxx-cdn.com/transparency/XNXX_2nd_Transparency_Report_January_to_June_2025.pdf)
 
-[Transparency report - July / December 2025](https://public-assets.xnxx-cdn.com/transparency/XNXX+-+Transparency+report+-+July-December+2025.zip)
+[Transparency report - June / December 2024](https://public-assets.xnxx-cdn.com/transparency/XNXX_Transparency_Report_-_July_to_December_2024.pdf)
 
 **Risk Assessment Reports**
 ---------------------------
