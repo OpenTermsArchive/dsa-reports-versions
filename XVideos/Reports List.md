@@ -10,6 +10,7 @@ Average monthly XVIDEOS recipients of the service in the European Union (l_argel
 |     |     |
 | --- | --- |
 | Date | Average monthly XVIDEOS recipients |
+| August 6, 2026 | 26 million |
 | February 17, 2026 | 33 million |
 | August 9, 2025 | 33 million |
 | February 17, 2025 | 31 million |
@@ -21,15 +22,17 @@ Average monthly XVIDEOS recipients of the service in the European Union (l_argel
 Transparency Reports
 --------------------
 
-[Transparency report - February / May 2024](https://public-assets.xvideos-cdn.com/transparency/XVideos_Transparency_Report-Fev-May_2024.pdf)
+[Transparency report - January / June 2026](https://public-assets.xvideos-cdn.com/transparency/XVideos+-+Transparency+report+-+January-June+2026.zip)
 
-[Transparency report - June / November 2024](https://public-assets.xvideos-cdn.com/transparency/XVideos_Transparency_Report-June-November_2024.pdf)
-
-[Transparency report - June / December 2024](https://public-assets.xvideos-cdn.com/transparency/XVideos_Transparency_Report_June-December_2024.pdf)
+[Transparency report - July / December 2025](https://public-assets.xvideos-cdn.com/transparency/XVideos+-+Transparency+report+-+July-December+2025.zip)
 
 [Transparency report - January / June 2025](https://public-assets.xvideos-cdn.com/transparency/XVideos_3rd_Transparency_Report_January_to_June_2025.pdf)
 
-[Transparency report - July / December 2025](https://public-assets.xvideos-cdn.com/transparency/XVideos+-+Transparency+report+-+July-December+2025.zip)
+[Transparency report - June / December 2024](https://public-assets.xvideos-cdn.com/transparency/XVideos_Transparency_Report_June-December_2024.pdf)
+
+[Transparency report - June / November 2024](https://public-assets.xvideos-cdn.com/transparency/XVideos_Transparency_Report-June-November_2024.pdf)
+
+[Transparency report - February / May 2024](https://public-assets.xvideos-cdn.com/transparency/XVideos_Transparency_Report-Fev-May_2024.pdf)
 
 **Risk Assessment Reports**
 ---------------------------
