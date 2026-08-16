@@ -30,7 +30,7 @@ Please refer to [SHEIN’s out-of-court dispute settlement (ODS) guide](https://
 
 In compliance with Articles 15, 24, and 42 of the Digital Services Act (DSA), SHEIN, as a designated Very Large Online Platform, is committed to maintaining a safe and trustworthy marketplace.
 
-We are pleased to publish Transparency Report No. 4, covering the period from 1 July 2025 to 31 December 2025– see our updated version dated 30 July 2026: [here](https://shein.ltwebstatic.com/tinypic/2026/08/03/17857210253539906122.xlsx).  
+We are pleased to publish Transparency Report No. 4, covering the period from 1 July 2025 to 31 December 2025– see our updated version dated 10 July 2026: [here](https://shein.ltwebstatic.com/tinypic/2026/08/07/17860934362319086038.xlsx).
 
 For reference, our earlier reports remain available:
 
