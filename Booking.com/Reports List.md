@@ -4,7 +4,7 @@ Règlement sur les services numériques
 I. Destinataires mensuels actifs dans l'UE
 ------------------------------------------
 
-Conformément aux obligations de Booking.com en vertu de la législation sur les services numériques (DSA), nous estimons que le nombre moyen de bénéficiaires mensuels\* du service Booking.com dans l’Union européenne, du 1er juillet 2025 au 31 décembre 2025 inclus, est largement supérieur à 45 millions. De plus amples informations sont disponibles dans le rapport de transparence DSA.
+Conformément aux obligations de Booking.com en vertu de la législation sur les services numériques (DSA), nous estimons que le nombre moyen de bénéficiaires mensuels\* du service Booking.com dans l’Union européenne, du 1er janvier 2026 au 30 juin 2026 inclus, est largement supérieur à 45 millions. De plus amples informations sont disponibles dans le rapport de transparence DSA.
 
 Il ne s’agit que d’une estimation basée sur les données dont dispose Booking.com à l’heure actuelle et sur les directives limitées de la législation sur les services numériques (« DSA »). Cette estimation doit être publiée en vertu de la DSA et ne doit pas être utilisée à d’autres fins. Les méthodologies utilisées pour estimer le nombre moyen mensuel de destinataires tel que défini dans la DSA nécessitent un jugement et des données de conception importants, sont soumises à des données et à d’autres limitations, et sont intrinsèquement sujettes à des écarts statistiques et à des incertitudes. Cette estimation peut être révisée à la hausse ou à la baisse au fur et à mesure que Booking.com affine son approche et en réponse à la publication de la méthodologie par la Commission européenne.
 
