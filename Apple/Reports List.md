@@ -82,6 +82,7 @@ Pursuant to the transparency reporting obligations in the DSA and Apple’s comm
     *   [February 2025](https://www.apple.com/legal/dsa/transparency/eu/app-store/2502/)
     *   [August 2025](https://www.apple.com/legal/dsa/transparency/eu/app-store/2508/)
     *   [February 2026](https://www.apple.com/legal/dsa/transparency/eu/App-Store-February-2026.xlsx)
+    *   [August 2026](https://www.apple.com/legal/dsa/transparency/eu/App-Store-August-2026.xlsx)
     
 *   Apple Books (ebooks)
     --------------------
