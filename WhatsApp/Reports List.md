@@ -10,9 +10,10 @@ Regulatory and Other Transparency Reports
 *   EU Digital Services Act - Information on WhatsApp Channels Average Monthly Active Recipients in the European Union  
     *   [**13 September 2023 - 31 December 2023**](https://www.whatsapp.com/legal/dsa-reporting/current-states)
     *   [**1 January 2024 - 30 June 2024**](https://www.whatsapp.com/legal/dsa-reporting/future-states)
-    *   [1 July 2024 - 31 December 2024](https://scontent.xx.fbcdn.net/v/t39.8562-6/479502472_587289927463945_4204533537641070016_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=b8d81d&_nc_zt=14&_nc_ht=scontent.xx&_nc_ss=73100)
+    *   [**1 July 2024 - 31 December 2024**](https://scontent.xx.fbcdn.net/v/t39.8562-6/479502472_587289927463945_4204533537641070016_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=b8d81d&_nc_zt=14&_nc_ht=scontent.xx&_nc_ss=73100)
     *   [1 January 2025 - 30 June 2025](https://scontent.xx.fbcdn.net/v/t39.8562-6/531223522_1350927986364899_715305415669623042_n.pdf?_nc_cat=101&ccb=1-7&_nc_sid=b8d81d&_nc_zt=14&_nc_ht=scontent.xx&_nc_ss=73100)
     *   [1 July 2025 - 31 December 2025](https://scontent.xx.fbcdn.net/v/t39.8562-6/629738442_2122483575194151_399098089246216243_n.pdf?_nc_cat=110&ccb=1-7&_nc_sid=b8d81d&_nc_zt=14&_nc_ht=scontent.xx&_nc_ss=73100)
+    *   [1 January 2026 - 30 June 2026](https://scontent.xx.fbcdn.net/v/t39.8562-6/774467889_1857816645225860_8105733515076461365_n.pdf?_nc_cat=111&ccb=1-7&_nc_sid=b8d81d&_nc_zt=14&_nc_ht=scontent.xx&_nc_ss=73100)
 *   EU Digital Services Act - Transparency Report for Non-Very Large Online Platforms
     
     *   [17 February 2024 - 31 December 2024](https://scontent.xx.fbcdn.net/v/t39.8562-6/480194723_592453506962505_1094998012595454202_n.pdf?_nc_cat=110&ccb=1-7&_nc_sid=b8d81d&_nc_zt=14&_nc_ht=scontent.xx&_nc_ss=73100)
