@@ -39,7 +39,7 @@ Pursuant to Article 37(6) of the DSA, this report sets out the measures that App
 
 [August 2024](https://www.apple.com/legal/dsa/20242708_app-store_audit-implementation-report_non-confidential.pdf)
 
-[August 2025](https://www.apple.com/legal/dsa/20241212_app-store_risk-assessment-report_non-confidential.pdf)
+[August 2025](https://www.apple.com/legal/dsa/ADI-DSA-Audit-Implementation-Report-2025.pdf)
 
 App Store Risk  
 Assessment Reports
