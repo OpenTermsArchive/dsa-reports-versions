@@ -2,6 +2,7 @@ LinkedIn is a real-identity online service for professionals to connect and inte
 
 LinkedIn Ireland Unlimited Company (“LinkedIn”) – the provider of LinkedIn’s services in the European Union – has been designated by the European Commission as a Very Large Online Platform (VLOP) and is therefore subject to the European Union’s Digital Services Act (DSA) Article 42 requirement to publish certain information in semi-annual disclosures. LinkedIn publishes the reports below in response to the obligations under DSA Article 15(1), Article 24(1)-(2), and Article 42(1)-(3).
 
+*   [August 2026 Digital Services Act Transparency Report.zip file](https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn:aaid:aem:5a48363c-f3e8-494e-8373-d3719fe2e64b/original/as/LinkedIn-August-2026-Digital-Services-Act-Transparency-Report%201.zip)
 *   [February 2026 Digital Services Act Transparency Report.zip file](https://content.linkedin.com/content/dam/help/tns/en/report/LinkedIn-February-2026-Digital-Services-Act-Transparency-Report.zip)
 *   [August 2025 Digital Services Act Transparency Report](https://content.linkedin.com/content/dam/help/tns/en/August-2025-Digital-Services-Act-Transparency-Report.pdf)
 *   [August 2025.csv file](https://content.linkedin.com/content/dam/help/tns/en/TnS_August-2025_LinkedIn-DSA-Transparency-Report-csv.csv)
