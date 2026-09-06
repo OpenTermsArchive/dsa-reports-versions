@@ -33,11 +33,17 @@ In this section you can find the relevant reporting obligations of Zalando as pe
 
 In line with Article 15, 24 and 42 of the DSA, Zalando publishes its DSA Transparency Report, showcasing our content moderation efforts.
 
+DSA Transparency Report, August 2026 (zip, 92.57 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/zalando-se_dsa-transparency-report-august-2026.zip)
+
+Explanatory note on content moderation, August 2026 (pdf, 165.17 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/zalando-se_dsa-explanatory-note_august-2026.pdf)
+
+### Previous reports
+
+DSA Transparency Report, February 2026, updated (zip, 60.3 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/zalando-se_dsa-transparency-report-february-2026_updated.zip)
+
 DSA Transparency Report, February 2026 (zip, 58.6 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/zalando-transparency-report-february-2026.zip)
 
 Explanatory note on content moderation, Feb 2026 (pdf, 168.42 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/dsa-explanatory-note-february-2026.pdf)
-
-### Previous reports
 
 DSA Transparency Report, August 2025 (pdf, 288.14 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/2025-08-25%20-%20Transparency%20Report%20on%20Content%20Moderation.pdf)
 
