@@ -4,7 +4,7 @@ SHEIN is committed to ensuring that we offer a safe online platform for our comm
 
 1.Information on Active Users in the EU
 
-Pursuant to Article 24.2 of the DSA, online platforms are required to publish information on the average monthly active recipients of their services in the EU every six months. SHEIN ‘Marketplace’ was launched in the EU in August 2023.We have calculated that from **01 August 2025 to 31 January 2026**, SHEIN had on average 155.7 million monthly active users in EU Member States.
+Pursuant to Article 24.2 of the DSA, online platforms are required to publish information on the average monthly active recipients of their services in the EU every six months. SHEIN ‘Marketplace’ was launched in the EU in August 2023.We have calculated that from **01 February 2026 to 31 July 2026**, SHEIN had on average 127.9 million monthly active users in EU Member States.
 
 We define a **‘monthly active user’** as the number of unique users who have engaged with the SHEIN platform within a specific period of months. This engagement could include activities such as browsing the SHEIN website or SHEIN App, making purchases, interacting with content, adding items to a cart, or any other interaction with the platform.
 
@@ -30,7 +30,7 @@ Please refer to [SHEIN’s out-of-court dispute settlement (ODS) guide](https://
 
 In compliance with Articles 15, 24, and 42 of the Digital Services Act (DSA), SHEIN, as a designated Very Large Online Platform, is committed to maintaining a safe and trustworthy marketplace.
 
-We are pleased to publish Transparency Report No. 4, covering the period from 1 July 2025 to 31 December 2025– see our updated version dated 10 July 2026: [here](https://shein.ltwebstatic.com/tinypic/2026/08/07/17860934362319086038.xlsx).
+We are pleased to publish Transparency Report No. 5, covering the period from 1 January 2026 to 30 June 2026 (view [here](https://shein.ltwebstatic.com/tinypic/2026/09/02/17883154343995654501.xlsx)).
 
 For reference, our earlier reports remain available:
 
@@ -39,6 +39,8 @@ For reference, our earlier reports remain available:
 •Transparency Report No.2 — 1 September 2024 to 31 December 2024 (view [here](https://files-c.ltwebstatic.com/ccc/2025/12/19/17661348802980366487.pdf)).
 
 •Transparency Report No.3 — 1 January 2025 to 30 June 2025(view [here](https://shein.ltwebstatic.com/tinypic/2026/07/20/17845276692060933545.xlsx)).
+
+•Transparency Report No.4 — 1 July 2025 to 31 December 2025 (view [here](https://shein.ltwebstatic.com/tinypic/2026/08/07/17860934362319086038.xlsx)).
 
 5.Researchers’ access to data
 
