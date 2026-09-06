@@ -1,4 +1,4 @@
-Updated: 25 August 2026
+Updated: 31 August 2026
 
 Three decades ago, Amazon set out to be Earth’s most customer-centric company, where people can discover and purchase the widest possible selection of safe and authentic goods. As part of that mission, we obsess over earning and maintaining customer trust by ensuring that we provide a trustworthy shopping experience. We believe that customer trust is difficult to earn and easy to lose. We invest heavily in people and technology to prevent listings and content that are illegal or violate our terms and conditions from entering our store.
 
@@ -26,7 +26,9 @@ Amazon EU Store Transparency Reports
 
 These reports set out how Amazon has invested in ensuring a trustworthy shopping experience and continues to raise the bar in keeping our EU store safe for customers, selling partners, brands, and advertisers.
 
-Select Report Select Report Jul-Dec 2025 Jan-Jun 2025 Jul-Dec 2024 Jan-Jun 2024 Jul-Dec 2023 Jan-Jun 2023
+Select Report Select Report Jan-Jun 2026 Jul-Dec 2025 Jan-Jun 2025 Jul-Dec 2024 Jan-Jun 2024 Jul-Dec 2023 Jan-Jun 2023
+
+[Download](https://trustworthyshopping.aboutamazon.com/eu-transparency-report-amazon-jan-jun-2026)
 
 [Download](https://trustworthyshopping.aboutamazon.com/eu-transparency-report-amazon-jul-dec-2025)
 
