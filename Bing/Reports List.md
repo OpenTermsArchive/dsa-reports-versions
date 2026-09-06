@@ -41,7 +41,7 @@ Bing EU Digital Services Act (DSA) Transparency Report
 
 The DSA is a regulation of the European Parliament and of the Council of the EU on a single market for digital services and amending Directive 2000/31/EC. On April 25, 2023, the European Commission designated Bing as a Very Large Online Search Engine under DSA Article 33(4). This report is prepared semi-annually, beginning in October 2023, pursuant to the requirements of the EU Digital Services Act (DSA).
 
-*   [August 2026 Microsoft Bing Transparency Report – EU Digital Services Act Report](https://go.microsoft.com/fwlink/?LinkId=2377920&clcid=0x409&culture=en-us&country=us)
+*   [August 2026 Microsoft Bing Transparency Report – EU Digital Services Act Report](https://go.microsoft.com/fwlink/?LinkId=2378643&clcid=0x409&culture=en-us&country=us)
 *   [February 2026 Microsoft Bing Transparency Report - Updated – EU Digital Services Act Report](https://go.microsoft.com/fwlink/?LinkId=2370517&clcid=0x409&culture=en-us&country=us)
 *   [February 2026 Microsoft Bing Transparency Report – EU Digital Services Act Report](https://go.microsoft.com/fwlink/?LinkId=2352535&clcid=0x409&culture=en-us&country=us)
 *   [August 2025 Microsoft Bing Transparency Report – EU Digital Services Act Report](https://go.microsoft.com/fwlink/?linkid=2331640&clcid=0x409&culture=en-us&country=us)
