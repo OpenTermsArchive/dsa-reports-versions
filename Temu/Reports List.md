@@ -47,6 +47,6 @@ The Transparency Reports are published pursuant to Articles 15, 24 and 42 of Reg
 
 Reporting Period:
 
-1 Jul 2025 - 31 Dec 2025
+1 Jan 2026 - 30 Jun 2026
 
 Download report
