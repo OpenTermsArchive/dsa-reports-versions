@@ -1,3 +1,25 @@
+*   [À propos de Booking.com™](https://www.booking.com/content/about.fr.html?aid=304142&label=gen173bo-10CBQoggJCA2RzYUgNWANoTYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAZgCAqgCAbgC_7-Y1QbAAgHSAiQyMjZkNzY3My1kYjg4LTQyYWEtODAzYy0xMDhmYjRjMjBhYjLYAgHgAgE)
+*   [Notice légale](https://www.booking.com/content/legal.fr.html?aid=304142&label=gen173bo-10CBQoggJCA2RzYUgNWANoTYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAZgCAqgCAbgC_7-Y1QbAAgHSAiQyMjZkNzY3My1kYjg4LTQyYWEtODAzYy0xMDhmYjRjMjBhYjLYAgHgAgE)
+*   [Règlement sur les services numériques](https://www.booking.com/content/dsa.fr.html?aid=304142&label=gen173bo-10CBQoggJCA2RzYUgNWANoTYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAZgCAqgCAbgC_7-Y1QbAAgHSAiQyMjZkNzY3My1kYjg4LTQyYWEtODAzYy0xMDhmYjRjMjBhYjLYAgHgAgE)
+*   [Règlement sur les marchés numériques](https://www.booking.com/content/dma.fr.html?aid=304142&label=gen173bo-10CBQoggJCA2RzYUgNWANoTYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAZgCAqgCAbgC_7-Y1QbAAgHSAiQyMjZkNzY3My1kYjg4LTQyYWEtODAzYy0xMDhmYjRjMjBhYjLYAgHgAgE)
+*   [Déclaration d’accessibilité](https://www.booking.com/content/accessibility_statement.fr.html?aid=304142&label=gen173bo-10CBQoggJCA2RzYUgNWANoTYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAZgCAqgCAbgC_7-Y1QbAAgHSAiQyMjZkNzY3My1kYjg4LTQyYWEtODAzYy0xMDhmYjRjMjBhYjLYAgHgAgE)
+*   [Conditions de Service](https://www.booking.com/content/terms.fr.html?aid=304142&label=gen173bo-10CBQoggJCA2RzYUgNWANoTYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAZgCAqgCAbgC_7-Y1QbAAgHSAiQyMjZkNzY3My1kYjg4LTQyYWEtODAzYy0xMDhmYjRjMjBhYjLYAgHgAgE)
+*   [Fonctionnement de notre site](https://www.booking.com/content/how_we_work.fr.html?aid=304142&label=gen173bo-10CBQoggJCA2RzYUgNWANoTYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAZgCAqgCAbgC_7-Y1QbAAgHSAiQyMjZkNzY3My1kYjg4LTQyYWEtODAzYy0xMDhmYjRjMjBhYjLYAgHgAgE)
+*   [Nos bureaux dans le monde](https://www.booking.com/content/offices.fr.html?aid=304142&label=gen173bo-10CBQoggJCA2RzYUgNWANoTYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAZgCAqgCAbgC_7-Y1QbAAgHSAiQyMjZkNzY3My1kYjg4LTQyYWEtODAzYy0xMDhmYjRjMjBhYjLYAgHgAgE)
+*   [Nous contacter](https://www.booking.com/content/contact-us.fr.html?aid=304142&label=gen173bo-10CBQoggJCA2RzYUgNWANoTYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAZgCAqgCAbgC_7-Y1QbAAgHSAiQyMjZkNzY3My1kYjg4LTQyYWEtODAzYy0xMDhmYjRjMjBhYjLYAgHgAgE)
+*   [Actualités presse](https://news.booking.com/fr/)
+*   [Offres d'emploi](https://careers.booking.com/)
+*   [La durabilité chez Booking.com](https://sustainability.booking.com/)
+*   [Ajoutez votre établissement](https://join.booking.com/index.html?aid=1328032&label=gen173bo-10CBQoggJCA2RzYUgNWANoTYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAZgCAqgCAbgC_7-Y1QbAAgHSAiQyMjZkNzY3My1kYjg4LTQyYWEtODAzYy0xMDhmYjRjMjBhYjLYAgHgAgE&language=fr)
+*   [Booking.com for Business](https://business.booking.com/?lang=fr&aid=304142)
+*   [Accéder à l'extranet](https://admin.booking.com/?aid=304142&label=gen173bo-10CBQoggJCA2RzYUgNWANoTYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAZgCAqgCAbgC_7-Y1QbAAgHSAiQyMjZkNzY3My1kYjg4LTQyYWEtODAzYy0xMDhmYjRjMjBhYjLYAgHgAgE&lang=fr)
+*   [Devenir affilié](https://www.booking.com/content/affiliates.fr.html?aid=304142&label=gen173bo-10CBQoggJCA2RzYUgNWANoTYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAZgCAqgCAbgC_7-Y1QbAAgHSAiQyMjZkNzY3My1kYjg4LTQyYWEtODAzYy0xMDhmYjRjMjBhYjLYAgHgAgE)
+*   [Code de conduite des fournisseurs](https://www.bookingholdings.com/supplier-code-of-conduct/)
+
+Sélectionnez une page
+
+Règlement sur les services numériques
+
 Règlement sur les services numériques
 =====================================
 
