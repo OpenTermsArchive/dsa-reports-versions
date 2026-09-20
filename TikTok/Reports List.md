@@ -17,7 +17,7 @@ In addition, amongst our other obligations as a Very Large Online Platform, TikT
 
 Our compliance with the DSA is also subject to annual external independent audit. We publish our external auditor's report on an annual basis. We also publish our audit implementation report that addresses our responses to any recommendations that we receive from our external auditors.
 
-We’re proud of our strong track record of being transparent about the steps we take to keep TikTok safe and entertaining, publishing our first transparency report in [2019](https://www.tiktok.com/transparency/en-us/community-guidelines-enforcement-2019-2/), and welcome the opportunity provided by the DSA to further increase transparency about our platform.
+We’re proud of our strong track record of being transparent about the steps we take to keep TikTok safe and entertaining, publishing our first transparency report in [2019](https://www.tiktok.com/safety/en/transparency/community-guidelines-enforcement-2019-2), and welcome the opportunity provided by the DSA to further increase transparency about our platform.
 
 #### **Reports**
 
