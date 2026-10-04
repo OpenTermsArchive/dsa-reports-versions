@@ -33,53 +33,53 @@ In this section you can find the relevant reporting obligations of Zalando as pe
 
 In line with Article 15, 24 and 42 of the DSA, Zalando publishes its DSA Transparency Report, showcasing our content moderation efforts.
 
-DSA Transparency Report, August 2026 (zip, 92.57 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/zalando-se_dsa-transparency-report-august-2026.zip)
+DSA Transparency Report, August 2026 (zip, 92.57 KB)[Download](https://corporate.zalando.com/public/media-download/zalando-se_dsa-transparency-report-august-2026.zip?VersionId=QfyQdQ6sQXmE1Tlc_Zs_EJ6LHMH5406L)
 
-Explanatory note on content moderation, August 2026 (pdf, 165.17 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/zalando-se_dsa-explanatory-note_august-2026.pdf)
+Explanatory note on content moderation, August 2026 (pdf, 165.17 KB)[Download](https://corporate.zalando.com/public/media-download/zalando-se_dsa-explanatory-note_august-2026.pdf?VersionId=Q2pXbUyt891oOFidaUZsf_7mX_yChCZe)
 
 ### Previous reports
 
-DSA Transparency Report, February 2026, updated (zip, 60.3 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/zalando-se_dsa-transparency-report-february-2026_updated.zip)
+DSA Transparency Report, February 2026, updated (zip, 60.3 KB)[Download](https://corporate.zalando.com/public/media-download/zalando-se_dsa-transparency-report-february-2026_updated.zip?VersionId=ixPon_qEN3VXLjNZIsnyS_OMJrNnFXYd)
 
-DSA Transparency Report, February 2026 (zip, 58.6 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/zalando-transparency-report-february-2026.zip)
+DSA Transparency Report, February 2026 (zip, 58.6 KB)[Download](https://corporate.zalando.com/public/media-download/zalando-transparency-report-february-2026.zip?VersionId=h6HBYCn6tRUb3YBc1f4.KygOUShnK2qK)
 
-Explanatory note on content moderation, Feb 2026 (pdf, 168.42 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/dsa-explanatory-note-february-2026.pdf)
+Explanatory note on content moderation, Feb 2026 (pdf, 168.42 KB)[Download](https://corporate.zalando.com/public/media-download/dsa-explanatory-note-february-2026.pdf?VersionId=GHe8TUWKynRRyM7GsG9kySZfnSZzyMRg)
 
-DSA Transparency Report, August 2025 (pdf, 288.14 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/2025-08-25%20-%20Transparency%20Report%20on%20Content%20Moderation.pdf)
+DSA Transparency Report, August 2025 (pdf, 288.14 KB)[Download](https://corporate.zalando.com/public/media-download/2025-08-25%20-%20Transparency%20Report%20on%20Content%20Moderation.pdf?VersionId=KfZTrEzIR.T19gV98XGWfoqt6cn9xrrN)
 
-DSA Transparency Report, April 2025 (pdf, 310.27 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/Zalando-SE_DSA_Transparency_Report_2504.pdf)
+DSA Transparency Report, April 2025 (pdf, 310.27 KB)[Download](https://corporate.zalando.com/public/media-download/Zalando-SE_DSA_Transparency_Report_2504.pdf?VersionId=j6Msnv7PbNvw6yFFxUT2uPk2E6CEYUbX)
 
-DSA Transparency Report, October 2024 (pdf, 244.29 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/Zalando-SE_DSA_Transparency_Report_2410.pdf)
+DSA Transparency Report, October 2024 (pdf, 244.29 KB)[Download](https://corporate.zalando.com/public/media-download/Zalando-SE_DSA_Transparency_Report_2410.pdf?VersionId=GR4WeP.TuZCQzlJel8gl7h.MkWb7PKIU)
 
-DSA Transparency Report, April 2024 (pdf, 180.91 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/Zalando-SE_DSA_Transparency-Report_2404.pdf)
+DSA Transparency Report, April 2024 (pdf, 180.91 KB)[Download](https://corporate.zalando.com/public/media-download/Zalando-SE_DSA_Transparency-Report_2404.pdf?VersionId=_j.LkLNa2zr6UOqQ4nb6E4pIZN4SBz2H)
 
-DSA Transparency Report, October 2023 (pdf, 245.92 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/Zalando-SE_DSA_Transparency-Report_2310.pdf)
+DSA Transparency Report, October 2023 (pdf, 245.92 KB)[Download](https://corporate.zalando.com/public/media-download/Zalando-SE_DSA_Transparency-Report_2310.pdf?VersionId=UMGLk6czalqBhMkW_8D9ja2HGQvr1oAk)
 
 ### DSA Audit Report
 
 In compliance with Article 37 of the DSA, Zalando has released its external audit reports on DSA compliance. According to the audit, Zalando is either in full or partial compliance with all relevant obligations. In fact, it is important to note that due to the nature of our business model, not all requirements are applicable to our operations.
 
-DSA Audit Report 2025 (pdf, 5.17 MB)[Download](https://corporate.zalando.com/sites/default/files/media-download/2nd%20DSA%20Audit%20Report.pdf)
+DSA Audit Report 2025 (pdf, 5.17 MB)[Download](https://corporate.zalando.com/public/media-download/2nd%20DSA%20Audit%20Report.pdf?VersionId=E3cjUOG6CI48ymDEiPmabpYP1mdQpytC)
 
-DSA Audit Report 2024 (pdf, 5.69 MB)[Download](https://corporate.zalando.com/sites/default/files/media-download/Zalando-SE_DSA_Independent-Practitioners-Assurance-Report.pdf)
+DSA Audit Report 2024 (pdf, 5.69 MB)[Download](https://corporate.zalando.com/public/media-download/Zalando-SE_DSA_Independent-Practitioners-Assurance-Report.pdf?VersionId=lTd2MDl9f_xmglSMzyBl5DWpw1veyHUq)
 
 ### DSA Audit Implementation Report
 
 In compliance with Article 37(6) of the DSA, Zalando has released its DSA Audit Implementation Reports, as a follow-up to the Audit Reports. At Zalando we are committed to continuously improving so that our customers enjoy a satisfactory shopping and inspiring shopping experience. 
 
-DSA Audit Implementation Report 2025 (pdf, 5.46 MB)[Download](https://corporate.zalando.com/sites/default/files/media-download/2nd%20DSA%20Audit%20Implementation%20Report_0.pdf)
+DSA Audit Implementation Report 2025 (pdf, 5.46 MB)[Download](https://corporate.zalando.com/public/media-download/2nd%20DSA%20Audit%20Implementation%20Report_0.pdf?VersionId=ZYVLWTJxrxNgnpnwmbJcbsDv0TcYOxpE)
 
-DSA Audit Implementation Report 2024 (pdf, 228.41 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/Zalando-SE_DSA_Implementation-Report_0.pdf)
+DSA Audit Implementation Report 2024 (pdf, 228.41 KB)[Download](https://corporate.zalando.com/public/media-download/Zalando-SE_DSA_Implementation-Report_0.pdf?VersionId=h8f9q5geMWT_59E2CQFIbSIyPfV4H5.e)
 
 ### DSA Risk Report
 
 In compliance with Art. 34, 35, 36, 42 (4) of the DSA, Zalando has released the following DSA Risk Reports.
 
-DSA Risk Report 2025 (pdf, 659.7 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/DSA%20Risk%20Report%202025.pdf)
+DSA Risk Report 2025 (pdf, 659.7 KB)[Download](https://corporate.zalando.com/public/media-download/DSA%20Risk%20Report%202025.pdf?VersionId=40w3YiKk7Vnnkzyco2vq8V6hSP8h_c_G)
 
-DSA Risk Report 2024 (pdf, 315.84 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/Zalando-SE_DSA_Risk-Report_2024.pdf)
+DSA Risk Report 2024 (pdf, 315.84 KB)[Download](https://corporate.zalando.com/public/media-download/Zalando-SE_DSA_Risk-Report_2024.pdf?VersionId=rWUMlyW93GhwO3yc8XKeaTnikFWtVn.H)
 
-DSA Risk Report 2023 (pdf, 144.02 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/Zalando-SE_DSA_Risk-Report_2023.pdf)
+DSA Risk Report 2023 (pdf, 144.02 KB)[Download](https://corporate.zalando.com/public/media-download/Zalando-SE_DSA_Risk-Report_2023.pdf?VersionId=J.sCxeuVZ5gKZoDeKAO2RL5ui7vICeKw)
 
 ### Zalando SE Data Catalogue for Vetted Researchers
 
@@ -93,7 +93,7 @@ Vetted researchers must follow the official procedure set out by the Digital Ser
 **Contact information**  
 For all inquiries related to this DSA Article 40 Data Catalogue, or to follow up on a pending request from a Digital Services Coordinator, please contact us: **[authorities-dsa@zalando.de](mailto:authorities-dsa@zalando.de)**
 
-Zalando SE Data Catalogue for Vetted Researchers (Article 40 DSA) (pdf, 180.95 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/Zalando%20SE%20Data%20Catalogue%20for%20Vetted%20Researchers%20%28Article%2040%20DSA%29.pdf)
+Zalando SE Data Catalogue for Vetted Researchers (Article 40 DSA) (pdf, 180.95 KB)[Download](https://corporate.zalando.com/public/media-download/Zalando%20SE%20Data%20Catalogue%20for%20Vetted%20Researchers%20%28Article%2040%20DSA%29.pdf?VersionId=n49hfAJ64CNLZZo9kXLgk1.EpG_TfPAJ)
 
 * * *
 
@@ -102,4 +102,4 @@ Zalando Ireland gender pay gap report
 
 In compliance with the Gender Pay Gap Information Act 2021, as amended, Zalando Ireland Ltd has released its first gender pay gap report. This report details the company's gender pay gap metrics for 2025 and outlines our commitment and actions to address the findings.
 
-Zalando Ireland gender pay gap report 2025 (pdf, 115.32 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/2025%20_%20Gender%20Pay%20Gap%20Report%20_%20Zalando%20Ireland%20Ltd.pdf)
+Zalando Ireland gender pay gap report 2025 (pdf, 115.32 KB)[Download](https://corporate.zalando.com/public/media-download/2025%20_%20Gender%20Pay%20Gap%20Report%20_%20Zalando%20Ireland%20Ltd.pdf?VersionId=DQi0fNEKbO1crURRAn2OdSlF5qggYyDa)
