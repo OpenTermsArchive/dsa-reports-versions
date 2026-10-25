@@ -34,4 +34,5 @@ Regulatory and Other Transparency Reports
 
 ### Reports under Texas Business and Commerce Code §120.053
 
-*   [Texas Business and Commerce Code §§120.053 Transparency Report](https://scontent.xx.fbcdn.net/v/t39.8562-6/657923646_1181532210576452_7882666164716816813_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=e280be&_nc_zt=14&_nc_ht=scontent.xx&_nc_ss=70100)
+*   [1 July 2025 - 31 December 2025](https://scontent.xx.fbcdn.net/v/t39.8562-6/657923646_1181532210576452_7882666164716816813_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=e280be&_nc_zt=14&_nc_ht=scontent.xx&_nc_ss=70100)
+*   [1 January 2026 - 30 June 2026](https://scontent.xx.fbcdn.net/v/t39.8562-6/858093560_2326957281387613_4297482786723317561_n.pdf?_nc_cat=105&ccb=1-7&_nc_sid=e280be&_nc_zt=14&_nc_ht=scontent.xx&_nc_ss=70100)
