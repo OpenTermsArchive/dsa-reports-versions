@@ -32,6 +32,8 @@ Pursuant to Article 37 of the DSA, this report sets out the results of the annua
 
 [August 2025](https://www.apple.com/legal/dsa/20251119_app-store_reasonable-assurance-report_non-confidential.pdf)
 
+[August 2026](https://www.apple.com/legal/dsa/20261120_app-store_reasonable-assurance-report_non-confidential.pdf)
+
 App Store Audit Implementation Reports
 --------------------------------------
 
@@ -52,6 +54,8 @@ Pursuant to Articles 34 and 35 of the DSA, this report sets out the results of A
 [August 2024](https://www.apple.com/legal/dsa/20241212_app-store_risk-assessment-report_non-confidential.pdf)
 
 [August 2025](https://www.apple.com/legal/dsa/20251119_app-store_risk-assessment-report_non-confidential.pdf)
+
+[August 2026](https://www.apple.com/legal/dsa/20261120_app-store_risk-assessment-report_non-confidential.pdf)
 
 European Recipients of  
 Services Report
