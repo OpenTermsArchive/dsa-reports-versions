@@ -14,6 +14,7 @@ Article 42(4) of the DSA requires VLOPs to make both the Audit Report and the Au
 
 Pinterest's most recent Audit Report can be found here:
 
+*   2026 DSA Independent Audit Report
 *   2025 DSA Independent Audit Report
 *   2024 DSA Independent Audit Report
 
@@ -21,6 +22,7 @@ The publicly available reports may be redacted to prevent the disclosure of conf
 
 Pinterest's most recent Audit Implementation Report can be found here:
 
+*   2026 DSA Audit Implementation Report
 *   2025 DSA Audit Implementation Report
 *   2024 DSA Audit Implementation ReportSystemic Risk Assessment and Mitigation Report
 
@@ -28,6 +30,7 @@ Articles 34 and 35 of the DSA require VLOPs to identify, analyse, assess, and mi
 
 Article 42(4) of the DSA requires VLOPs to make publicly available, no later than three months after receiving each year’s Audit Report, a report setting out the results of their risk assessment and the specific mitigation measures put in place. Pinterest’s most recent Systemic Risk Assessment and Mitigation Reports can be found here:
 
+*   2026 Systemic Risk Assessment and Mitigation Report
 *   2025 Systemic Risk Assessment and Mitigation Report
 *   2024 Systemic Risk Assessment and Mitigation Report
 *   2023 Systemic Risk Assessment and Mitigation Report
