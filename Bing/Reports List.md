@@ -56,6 +56,7 @@ Bing EU Digital Services Act (DSA) Systemic Risk Assessment Report
 
 The DSA is a regulation of the European Parliament and of the Council of the EU on a single market for digital services and amending Directive 2000/31/EC. On April 25, 2023, the European Commission designated Bing as a Very Large Online Search Engine under DSA Article 33(4). This report is prepared annually, beginning in August 2023, pursuant to the requirements of the EU Digital Services Act (DSA).
 
+*   [August 2026 Microsoft Bing Systemic Risk Assessment Report - EU Digital Services Act](https://digital-safety.contentvalidation.com/digital-safety-docs/bing-dsa-systemic-risk/2026/08/en/August-2026-Microsoft-Bing-Systemic-Risk-Assessment-Report-EU-Digital-Services-Act.pdf)
 *   [August 2025 Microsoft Bing Systemic Risk Assessment Report - EU Digital Services Act](https://digital-safety.contentvalidation.com/digital-safety-docs/bing-dsa-systemic-risk/2025/08/en/August-2025-Microsoft-Bing-Systemic-Risk-Assessment-Report-EU-Digital-Services-Act.pdf)
 *   [August 2024 Microsoft Bing Systemic Risk Assessment Report - EU Digital Services Act](https://digital-safety.contentvalidation.com/digital-safety-docs/bing-dsa-systemic-risk/2024/08/en/August-2024-Microsoft-Bing-Systemic-Risk-Assessment-Report-EU-Digital-Services-Act.pdf)
 *   [August 2023 Microsoft Bing Systemic Risk Assessment Report - EU Digital Services Act](https://digital-safety.contentvalidation.com/digital-safety-docs/bing-dsa-systemic-risk/2023/08/en/Microsoft%20Bing%20DSA%20Systemic%20Risk%20Assessment%20Report%20-%20August%202023.pdf)
@@ -65,6 +66,7 @@ Bing EU Digital Services Act (DSA) Audit Report
 
 The DSA is a regulation of the European Parliament and of the Council of the EU on a single market for digital services and amending Directive 2000/31/EC. On April 25, 2023, the European Commission designated Bing as a Very Large Online Search Engine under DSA Article 33(4). This report is issued by Bing’s independent auditor pursuant to the requirements of the EU Digital Services Act (DSA) and Commission Delegated Regulation (EU) 2024/436.
 
+*   [August 2026 Microsoft Bing Audit Report - EU Digital Services Act](https://digital-safety.contentvalidation.com/digital-safety-docs/bing-dsa-audit/2026/08/en/August-2026-Microsoft-Bing-Audit-Report-EU-Digital-Services-Act.pdf)
 *   [August 2025 Microsoft Bing Audit Report - EU Digital Services Act](https://digital-safety.contentvalidation.com/digital-safety-docs/bing-dsa-audit/2025/08/en/August-2025-Microsoft-Bing-Audit-Report-EU-Digital-Services-Act.pdf)
 *   [August 2024 Microsoft Bing Audit Report - EU Digital Services Act](https://digital-safety.contentvalidation.com/digital-safety-docs/bing-dsa-audit/2024/08/en/Microsoft%20Bing%20DSA%20Audit%20Report%20-%20August%202024.pdf)
 
@@ -73,6 +75,7 @@ Bing EU Digital Services Act (DSA) Audit Implementation Report
 
 The DSA is a regulation of the European Parliament and of the Council of the EU on a single market for digital services and amending Directive 2000/31/EC. On April 25, 2023, the European Commission designated Bing as a Very Large Online Search Engine under DSA Article 33(4). Where applicable, Bing adopts an Audit Implementation Report in response to the operational recommendations of its independent auditor pursuant to the requirements of the EU Digital Services Act (DSA) and Commission Delegated Regulation (EU) 2024/436.
 
+*   [September 2026 Microsoft Bing Audit Implementation Report - EU Digital Services Act](https://digital-safety.contentvalidation.com/digital-safety-docs/bing-dsa-audit-implementation/2026/09/en/September-2026-Microsoft-Bing-Audit-Implementation-Report-EU-Digital-Services-Act.pdf)
 *   [September 2025 Microsoft Bing Audit Implementation Report - EU Digital Services Act](https://digital-safety.contentvalidation.com/digital-safety-docs/bing-dsa-audit-implementation/2025/09/en/September-2025-Microsoft-Bing-Audit-Implementation-Report-EU-Digital-Services-Act.pdf)
 *   [September 2024 Microsoft Bing Audit Implementation Report - EU Digital Services Act](https://digital-safety.contentvalidation.com/digital-safety-docs/bing-dsa-audit-implementation/2024/09/en/Microsoft%20Bing%20DSA%20Audit%20Implementation%20Report%20-%20September%202024.pdf)
 
