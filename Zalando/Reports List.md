@@ -100,6 +100,8 @@ Zalando SE Data Catalogue for Vetted Researchers (Article 40 DSA) (pdf, 180.95 K
 Zalando Ireland gender pay gap report
 -------------------------------------
 
-In compliance with the Gender Pay Gap Information Act 2021, as amended, Zalando Ireland Ltd has released its first gender pay gap report. This report details the company's gender pay gap metrics for 2025 and outlines our commitment and actions to address the findings.
+In compliance with the Gender Pay Gap Information Act 2021, as amended, Zalando Ireland Ltd publishes its annual gender pay gap reports on this page. Each report sets out our yearly metrics and the actions we are taking in response.
+
+Zalando Ireland Ltd Gender Pay Gap Report 2026 (pdf, 223.29 KB)[Download](https://corporate.zalando.com/public/media-download/Zalando_Ireland_Ltd_GPG_2026.pdf?VersionId=6Kfzn_45cFN50nxWEtBsBAlO.aXOw9Vf)
 
 Zalando Ireland gender pay gap report 2025 (pdf, 115.32 KB)[Download](https://corporate.zalando.com/public/media-download/2025%20_%20Gender%20Pay%20Gap%20Report%20_%20Zalando%20Ireland%20Ltd.pdf?VersionId=DQi0fNEKbO1crURRAn2OdSlF5qggYyDa)
