@@ -25,3 +25,6 @@ LinkedIn also publishes the following pursuant to DSA Article 42(4):
 *   [Systemic Risk Assessment Report and mitigation measures for 2024-2025](https://content.linkedin.com/content/dam/help/tns/legal/01-LinkedIn-DSA-2025-SRA-Report-August-2025.pdf)
 *   [External Audit Report for 2024-2025](https://content.linkedin.com/content/dam/help/tns/legal/LinkedIn-DSA-and-Code-of-Conduct-Report-Non-Confidential.pdf)
 *   [Audit Implementation Report for 2024-2025](https://content.linkedin.com/content/dam/help/tns/legal/03-LinkedIn-Year-Two-Audit-Implementation-Report.pdf)
+*   [Systemic Risk Assessment Report and mitigation measures for 2025-2026](https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn:aaid:aem:4679454b-b666-4a6b-8ce8-7f9b21c4548b/original/as/Systemic%20Risk%20Assessment%20Report%20and%20mitigation%20measures%20for%202025-2026.pdf)
+*   [External Audit Report for 2025-2026](https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn:aaid:aem:50aab35e-acbc-47af-81fb-4b507d506721/original/as/2026%20LinkedIn%20DSA%20and%20Code%20of%20Conduct%20Report%20\(REDACTED\).pdf)
+*   [Audit Implementation Report for 2025-2026](https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn:aaid:aem:d18ac801-f938-43dc-8e76-20de907210ad/original/as/LinkedIn%20DSA%20Audit%20Implementation%20Report%202026.pdf)
